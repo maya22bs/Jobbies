@@ -1,2 +1,2 @@
 # Jobbies
-Android Camp Hackathon 2016 
+Google Android Camp Hackathon 2016 
